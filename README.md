@@ -1,3 +1,1 @@
-# CSE3001 Software Engineering
-
-Shuttle Cab Management
+# Shuttle Cab Management
